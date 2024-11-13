@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.separator {
+  @apply w-[36px] border border-[#FFFFFF8A] -rotate-90;
+}
